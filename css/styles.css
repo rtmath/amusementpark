@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url(../img/forest.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  width: 420px;
+  height: 300px;
+}
+
+header {
+  /*background: rgba(144, 212, 177, 0.5);*/
+  border-radius: 0px !important;
+  margin: 0;
+  color: #fff;
+
+}
+#middleColumn{
+  background: rgba(144, 212, 177, 0.7);
+}
+
+#centerText {
+  text-align: center;
+}
